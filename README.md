@@ -1,5 +1,6 @@
 # task-1
-network port scanning
+network port scanning 
+
 📌 Objective
 Perform a network scan on your local network to identify active devices and their open ports using Nmap. The goal is to understand network exposure and potential security risks.
 
